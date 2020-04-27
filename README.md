@@ -1,2 +1,6 @@
-# Productionizing-your-AI-application-with-Docker
-In this module you will look at how to take machine learning models into production, so that they can be used in live business applications. There are several methods of productionizing models, this module will cover a few of the common ones.
+# Productionizing your AI application with Docker
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Productionizing-your-AI-application-with-Docker.svg)](https://github.com/Develop-Packt/Productionizing-your-AI-application-with-Docker/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Productionizing-your-AI-application-with-Docker.svg)](https://github.com/Develop-Packt/Productionizing-your-AI-application-with-Docker/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Productionizing-your-AI-application-with-Docker.svg)](https://github.com/Develop-Packt/Productionizing-your-AI-application-with-Docker/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Productionizing-your-AI-application-with-Docker/pulls)
+
