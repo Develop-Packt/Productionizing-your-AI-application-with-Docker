@@ -3,8 +3,8 @@ import pandas as pd
 
 
 # load the datasets
-train = pd.read_csv('../../Dataset/Titanic/train.csv')
-test = pd.read_csv('../../Dataset/Titanic/test.csv')
+train = pd.read_csv('../../Datasets/Titanic/train.csv')
+test = pd.read_csv('../../Datasets/Titanic/test.csv')
 
 # prepare the dataset
 train.Sex = train.Sex.map({'male': 0, 'female': 1})
